@@ -1,5 +1,5 @@
 # FactAnchor — a trustless fact-resolution Intelligent Contract
-
+Deployed and live on Bradbury Testnet at 0xE1a4780dc431a16f41cf17F44F60a4A503e55cf0.
 Built for **GenLayer** (testnet Bradbury). Submit a plain-English, checkable
 claim; validators independently browse the live web, judge it with an LLM,
 and GenLayer's Optimistic Democracy consensus settles on one answer — no
